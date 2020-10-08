@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi 
 
-<!--
-**dosmth/dosmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 My skills as a developer
 
-Here are some ideas to get you started:
+- 🔮 Semantic HTML, responsive layouts, CSS (including flexbox and grids), Sass, jQuery, anime.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📜 JavaScript, React, React-router, Styled-components, CSS Modules, PostCSS, Redux, Redux-Saga, SPA
+
+- 🧙🏻 Not afraid of Webpack's configs
+
+- 🎨 Figma, Photoshop and Illustrator a bit
+
+- 👀 SEO and targeted ads
+
+- ⚙️ Python. I can write simple backend with RESTapi and Flask+SQLAlchemy/Django
+
+- 🔧 Little experience with PHP and CMS like WordPress and OpenCart
