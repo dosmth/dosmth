@@ -4,7 +4,7 @@
 
 - 🔮 Semantic HTML, responsive layouts, CSS (including flexbox and grids), Sass, jQuery, anime.js
 
-- 📜 JavaScript, React, React-router, Styled-components, CSS Modules, PostCSS, Redux, Redux-Saga, SPA
+- 📜 JavaScript, React, React-router, Styled-components, CSS Modules, PostCSS, Redux, Redux-Saga, Effector, SPA
 
 - 🧙🏻 Not afraid of Webpack's configs
 
