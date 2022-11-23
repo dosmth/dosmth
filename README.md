@@ -4,7 +4,7 @@
 
 - 🔮 Semantic HTML, responsive layouts, CSS (including flexbox and grids), Sass, jQuery, anime.js
 
-- 📜 JavaScript, TypeScript, React, Next.js, React-router, Styled-components, CSS Modules, PostCSS, Redux, Redux-Saga, Effector, SPA
+- 📜 JavaScript, TypeScript, React, Next.js, React-router, Styled-components, CSS Modules, PostCSS, Redux, Redux-Saga, Effector, SPA, Storybook;
 
 - 🚀 Organize the team's work and processes
 
